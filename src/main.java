@@ -3,6 +3,6 @@
 public class main{
 
     public static void main(String[] args) {
-        StringCalc.Add("");
+        StringCalc.Add("5,8");
     }
 }
