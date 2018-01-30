@@ -20,29 +20,5 @@ public class StringCalc {
 
             return sum;
         }
-
-        /*
-//split the previous array by the commas
-            String [] strNums = numbers.split(",");
-
-            //create a new integer array
-            int [] nums = new int[strNums.length];
-
-            //iterate through integer array and add up sum
-
-            //return sum
-            return -1;
-        int sum = 0;
-        int [] nums = new int[strNums.length];
-
-
-        for (int i =0; i <nums.length;i++){
-            nums[i] = Integer.valueOf(strNums[i]);
-            sum += nums[i];
-        }
-
-        return sum;
-        */
-
     }
 }
